@@ -19,6 +19,15 @@ Pueden contactarme en
 
 https://ar.linkedin.com/in/alvarogonzalezf
 
+--------------------------------------------------
 
-[Screenshoot](screenshoots/editor.jpg)
+Screenshoots
+
+![Intro](screenshoots/intro.jpg)
+
+![Editor](screenshoots/editor.jpg)
+
+![Nivel 1](screenshoots/nivel 1.jpg)
+
+![Nivel 2](screenshoots/nivel 2.jpg)
 
