@@ -27,7 +27,7 @@ Screenshoots
 
 ![Editor](screenshoots/editor.jpg)
 
-![Nivel 1]("screenshoots/nivel 1.jpg")
+![Nivel 1](screenshoots/nivel%201.jpg)
 
-![Nivel 2]("screenshoots/nivel 2.jpg")
+![Nivel 2](screenshoots/nivel%202.jpg)
 
