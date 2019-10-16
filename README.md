@@ -1,9 +1,13 @@
 # Kronoide
 
 Un clon de *Arkanoide* / *Breakout* en *Qbasic*
+
 Por Kronoman
+
 Copyright (c) 2002-2019 - Licencia GNU - Software libre
+
 En memoria de mi querido padre
+
 Hecho en Argentina
 
 --------------------------------------------------
