@@ -27,9 +27,15 @@ https://ar.linkedin.com/in/alvarogonzalezf
 
 ## Screenshoots
 
+### Intro
+
 ![Intro](screenshoots/intro.jpg)
 
+### Editor
+
 ![Editor](screenshoots/editor.jpg)
+
+### Gameplay
 
 ![Nivel 1](screenshoots/nivel%201.jpg)
 
